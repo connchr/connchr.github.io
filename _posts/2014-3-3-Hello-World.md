@@ -1,6 +1,5 @@
 ---
 layout: post
-title: You're up and running!
+title: My first blog post will be published soon.
 published: true
 ---
-# My first blog post will be published soon.
