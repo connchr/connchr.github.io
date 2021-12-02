@@ -1,5 +1,3 @@
-![_config.yml]
-
 # British Airways Premium vs. Standard AMEX Credit Card Analysis
 
 ## Analysis begins by assuming a £0.01 per avios
